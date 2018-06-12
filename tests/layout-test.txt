@@ -1,2 +1,2 @@
 title #{title} - Training14
-h1 Training14
+h1 REPLACE THIS HEADER
